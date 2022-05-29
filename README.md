@@ -1,5 +1,13 @@
 # React Weather Forecast App
 Build a Weather Forecast App inm React and TailWind
+
+## Attention
+
+**You must enter `OpenWeather API KEY` in .env file**
+
+
+![screenshot](public/screenshot.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -19,4 +27,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
 
